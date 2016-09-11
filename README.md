@@ -1,4 +1,4 @@
-# tkk
+# TKK
 
 This project was made for the IT-Talents's "48 Hour Competition"
 
